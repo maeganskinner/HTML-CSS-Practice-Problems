@@ -14,9 +14,10 @@
     cursor: pointer;
 }
 
-.item-image {
+.item-image { href=`level-3/img/bottoms.png`;
     width: 100%;
     display: block;
+    alt="bottoms";
 }
 
 .full-width-item {
