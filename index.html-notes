@@ -1,0 +1,65 @@
+<!DOCtype html>
+
+<html>
+ <head>
+     <title>
+         My First Website
+     </title>
+<body>
+// css 
+ <link rel="stylesheet" type="text/css" href=/.index.css />
+  // you must provide the computer with the specific instrctions such as the relationship, type, and h refernece 
+
+
+
+
+
+<p>"Maegan</p>
+<h1>Maegan</h1>
+<div>
+    this is a invisable box section
+</div>
+<span>
+    span makes it to where you can choose individual text/image to stylize
+</span>
+<li>
+    <ol> numbered list</ol>
+     <li> Milk </li>
+     <li> Sugar </li>
+     <li> Eggs </li>
+
+    <ul> unordored bulleted list</ul>
+     <li> Carrots </li>
+     <li> Cheese </li>
+      <ul> 
+          <li> Parm </li>
+          <li> Cheddar </li>
+          <li> Gouda </li>
+      </ul>
+     <li> Cake </li>
+</li>
+
+<img src=image.jpeg />
+<alt="this is an alternate image incase the first one does not work"></alt>
+
+<a> this is how you link to other pages
+    href=http://google.com
+    always put href before the desired site so it appears as a clickable link
+</a>
+ <input type="checkbox" />
+ 
+ <button> Button Name </button>
+
+ <
+
+</body>
+ </head>
+ 
+
+
+
+
+
+
+
+</html>
