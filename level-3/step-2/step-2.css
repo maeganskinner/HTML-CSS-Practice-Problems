@@ -14,10 +14,11 @@
     cursor: pointer;
 }
 
-.item-image { href=`level-3/img/bottoms.png`;
+.item-image {
     width: 100%;
     display: block;
     alt="bottoms";
+    <link href="level-3/img/bottoms.png" ref="item-image">
 }
 
 .full-width-item {
